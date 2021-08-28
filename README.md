@@ -1,6 +1,6 @@
-# python-template-repository
+# OpenAI-GPT2
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+OpenAI-GPT2 のexample リポジトリです。
 
 ## リポジトリ構成
 
