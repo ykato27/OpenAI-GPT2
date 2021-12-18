@@ -1,4 +1,4 @@
-# OpenAI-GPT2
+# OpenAI-GPT2-example
 
 OpenAI-GPT2 のexample リポジトリです。
 
